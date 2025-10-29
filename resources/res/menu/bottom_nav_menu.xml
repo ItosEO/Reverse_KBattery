@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_home"
+        android:id="@+id/page_1"
+        android:title="首页"/>
+    <item
+        android:icon="@drawable/baseline_dashboard_24"
+        android:id="@+id/page_3"
+        android:title="更多"/>
+    <item
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/page_2"
+        android:title="关于"/>
+</menu>

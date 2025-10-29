@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="battery_state_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorWarning</item>
+        <item>@color/colorError</item>
+        <item>@color/colorSecondary</item>
+    </array>
+</resources>
